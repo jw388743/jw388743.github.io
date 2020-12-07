@@ -1,5 +1,9 @@
 ---
-title: "Personal Website"
+title: "James Williams"
 ---
 
-Hello, World!
+Hello, I'm James! Thank you for coming to my website. I'm a data scientist and an
+economist. I enjoy solving problems, functions, good cabernet, and basketball. 
+This site contains all of my 
+contact and professional information. It also has some links to some projects I 
+am proud of and showcase some of my knowledge, and technical skills/abilities. 
