@@ -1,9 +1,21 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "James Williams"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "CV"
+      href: James Williams Resume 2020.pdf
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<jwilliams_388@icloud.com>
+    - icon: fa-github fa-lg
+      href: https://github.com/jw388743
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Jwill_388
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/james-williams-9ba497132/
+    

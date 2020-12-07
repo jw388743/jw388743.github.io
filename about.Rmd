@@ -1,5 +1,14 @@
 ---
-title: "Personal Website"
+title: "About Me"
 ---
 
-Hello, World!
+Hello, thanks for coming to my page! My name is James Williams. 
+I have received a **[MS in Applied Economics from Boston College](https://appliedeconomics.bc.edu)**
+and a 
+**[BA in Economics from Suffolk University](https://www.suffolk.edu/cas/degrees-programs/economics)**.
+Currently I am based in Boston and work as a Data Scientist. Some of my interests, and passions include:
+
+* **Microeconomics**
+* **Time Series Analysis**
+* **Game Theory**
+* **Sports and Sports Analytics**
