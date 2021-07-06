@@ -13,6 +13,7 @@
 
 <title>James Williams</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -24,6 +25,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -69,6 +79,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -286,25 +297,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:&lt;jwilliams_388@icloud.com&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://github.com/jw388743">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/Jwill_388">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/james-williams-9ba497132/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -322,7 +333,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>Hello, I’m James! Thank you for coming to my website. I’m a data scientist and an economist. I enjoy solving problems, functions, good cabernet, and basketball. This site contains all of my contact and professional information. It also has some links to some projects I am proud of and showcase some of my knowledge, and technical skills/abilities.</p>
+<p>Hello, I’m James! Thank you for coming to my website. I’m a data scientist and an economist based in Boston, MA. I enjoy solving problems, functions, playing golf, programming, and professional sports. This site contains all of my contact and professional information. It also has some links to some projects I am proud of and showcase some of my knowledge, and technical skills/abilities.</p>
 
 
 
@@ -333,7 +344,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
