@@ -4,7 +4,7 @@ title: "James Williams"
 
 Hello, I'm James! Thank you for coming to my website. I'm a data scientist and an
 economist based in Boston, MA. I enjoy solving problems, functions, playing golf, 
-and professional sports. 
+programming, and professional sports. 
 This site contains all of my 
 contact and professional information. It also has some links to some projects I 
 am proud of and showcase some of my knowledge, and technical skills/abilities. 
