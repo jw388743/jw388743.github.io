@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "CV"
-      href: James Williams Resume 2020.pdf
+      href: James Williams Resume 2022.pdf
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<jwilliams_388@icloud.com>
