@@ -6,9 +6,5 @@ Hello, thanks for coming to my page! My name is James Williams.
 I have received a **[MS in Applied Economics from Boston College](https://appliedeconomics.bc.edu)**
 and a 
 **[BA in Economics from Suffolk University](https://www.suffolk.edu/cas/degrees-programs/economics)**.
-Currently I am based in Boston and work as a Data Scientist. Some of my interests, and passions include:
 
-* **Microeconomics**
-* **Time Series Analysis**
-* **Game Theory**
-* **Sports and Sports Analytics**
+My current role is Data Science Researcher at Forrester Research. Most of the work on my personal GitHub is out of date with where my programmatic abilities are currently. I am currently working on a few projects to post here that highlight my improved abilities as a programmer.  
