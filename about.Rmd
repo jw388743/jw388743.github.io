@@ -7,4 +7,4 @@ I have received a **[MS in Applied Economics from Boston College](https://applie
 and a 
 **[BA in Economics from Suffolk University](https://www.suffolk.edu/cas/degrees-programs/economics)**.
 
-My current role is Data Science Researcher at Forrester Research. Most of the work on my personal GitHub is out of date with where my programmatic abilities are currently. I am currently working on a few projects to post here that highlight my improved abilities as a programmer.  
+My current role is Data Science Researcher at Forrester Research. Most of the work on my personal GitHub is out of date with where my programmatic abilities are currently. I am currently working on a few projects to post here that highlight my improved abilities as a programmer. To see some code that highlights my current abilities check out **[this repository](https://github.com/jw388743/adventOfCode2022)**  
