@@ -6,7 +6,7 @@ src="files/headshot.jpg"
 style="width:25%; padding-top:13px; padding-right:13px; float:left">
 
 
-Hello, I'm James! Thank you for coming to my website. I'm a data scientist with a background in economics. Currently, I'm based in Boston, MA. I enjoy solving problems, functions, playing golf, 
+Hello, I'm James! Thank you for coming to my website. I'm a data scientist with a background in economics.I enjoy solving problems, functions, playing golf, 
 programming, and developing R packages. 
 This site contains all of my 
 contact and professional information. It also has some links to some projects I 
